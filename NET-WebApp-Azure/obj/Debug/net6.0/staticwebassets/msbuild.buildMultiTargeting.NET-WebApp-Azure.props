@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NET-WebApp-Azure.props" />
+</Project>

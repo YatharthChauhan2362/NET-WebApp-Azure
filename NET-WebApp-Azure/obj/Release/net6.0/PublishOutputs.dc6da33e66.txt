@@ -1,0 +1,7 @@
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\NET-WebApp-Azure.exe
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\NET-WebApp-Azure.dll
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\NET-WebApp-Azure.deps.json
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\NET-WebApp-Azure.runtimeconfig.json
+D:\Github\NET-WebApp-Azure\NET-WebApp-Azure\obj\Release\net6.0\PubTmp\Out\NET-WebApp-Azure.pdb
